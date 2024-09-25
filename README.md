@@ -1,4 +1,4 @@
-# Avatar Component
+# Angular Avatar Component Ver. 1.0
 
 This is an Angular component that generates circular or square avatars with initials inside. The background colors are randomly generated from a predefined list.
 
